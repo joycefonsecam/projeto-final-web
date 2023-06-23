@@ -1,0 +1,42 @@
+body {
+    background-color: #062F4F;
+    font-size: 1em;
+    color: #F4F4F4;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    padding: 5px 10px;
+}
+
+#crudContainer {
+    margin-top: 30px;
+}
+
+button {
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+#conteudo {
+    margin-top: 10px;
+}
